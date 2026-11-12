@@ -1,0 +1,3 @@
+com.example.helloworld:id/helloText = 0x7f010001
+com.example.helloworld:layout/activity_main = 0x7f020000
+com.example.helloworld:id/helloButton = 0x7f010000

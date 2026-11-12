@@ -1,0 +1,7 @@
+com.example.helloworld.app-pngs-0 /workspaces/AndroidApps/HelloWorldAndroid/app/build/generated/res/pngs/debug
+com.example.helloworld.app-resValues-1 /workspaces/AndroidApps/HelloWorldAndroid/app/build/generated/res/resValues/debug
+com.example.helloworld.app-packageDebugResources-2 /workspaces/AndroidApps/HelloWorldAndroid/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.helloworld.app-packageDebugResources-3 /workspaces/AndroidApps/HelloWorldAndroid/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.helloworld.app-debug-4 /workspaces/AndroidApps/HelloWorldAndroid/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.helloworld.app-debug-5 /workspaces/AndroidApps/HelloWorldAndroid/app/src/debug/res
+com.example.helloworld.app-main-6 /workspaces/AndroidApps/HelloWorldAndroid/app/src/main/res
